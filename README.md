@@ -1,5 +1,4 @@
 # Twitter_SentimentAnalysis
-Data Science Intern Project done for CodeClause
 
 Name of Project- Sentiment Analysis
 
